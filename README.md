@@ -45,6 +45,21 @@ Each student has an assigned dataset located in their respective `data/` folder.
 | **Kelvin** | California Housing Dataset | [Scikit-Learn](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset) |
 | **Mary** | Bangalore Housing Prices | [Kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data) |
 
+## Completed Project Dashboard (Phase 3 Finalized)
+
+The team has successfully completed the analysis for all five datasets. Below is a summary of the available resources:
+
+| Student | Dataset | Analysis Notebook | Cleaned Data |
+| :--- | :--- | :--- | :--- |
+| **Kelvin** | California Housing | [Analysis](../kelvin/notebooks/kelvin_housing_analysis.ipynb) | [CSV](../kelvin/cleaned_data/cleaned_california_housing.csv) |
+| **Ekure** | Ames Housing | [Analysis](../ekure/notebooks/ekure_housing_analysis.ipynb) | [CSV](../ekure/cleaned_data/cleaned_ames_housing.csv) |
+| **Hillary** | Melbourne Housing | [Analysis](../hillary/notebooks/hillary_housing_analysis.ipynb) | [CSV](../hillary/cleaned_data/cleaned_melbourne_housing.csv) |
+| **Jesse** | Boston Housing | [Analysis](../jesse/notebooks/jesse_housing_analysis.ipynb) | [CSV](../jesse/cleaned_data/cleaned_boston_housing.csv) |
+| **Mary** | Bangalore Housing | [Analysis](../mary/notebooks/mary_housing_analysis.ipynb) | [CSV](../mary/cleaned_data/cleaned_bangalore_housing.csv) |
+
+### Final Group Report
+The synthesized findings and cross-regional comparisons can be found in the [Final Group Report](../reports/group_report.md).
+
 ## How to Run
 1. Install dependencies:
    ```bash
@@ -54,4 +69,4 @@ Each student has an assigned dataset located in their respective `data/` folder.
    ```bash
    jupyter lab
    ```
-3. Copy the template from `shared/templates/eda_template.ipynb` to your `notebooks/` folder and start your analysis.
+3. Navigate to any individual `notebooks/` folder to view the full analysis.
