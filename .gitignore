@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+# data/
+# cleaned_data/
+# Excluding data folders if they contain large datasets, but the user might want them.
+# Given the previous merge showed many CSVs, I'll keep them for now unless they are too big.
