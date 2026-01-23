@@ -46,3 +46,12 @@ Each student has an assigned dataset located in their respective `data/` folder.
 | **Mary** | Bangalore Housing Prices | [Kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data) |
 
 ## How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Open Jupyter Lab or Notebook:
+   ```bash
+   jupyter lab
+   ```
+3. Copy the template from `shared/templates/eda_template.ipynb` to your `notebooks/` folder and start your analysis.
