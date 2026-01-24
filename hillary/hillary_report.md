@@ -36,7 +36,7 @@ We implemented a shared infrastructure to ensure consistency across all analyses
 ### Hillary: Melbourne Housing
 **Primary Insight**: Proximity to the central business district and property type (House vs Unit) are critical.
 - **Key Feature**: `Suburb` and `Type` significantly influence price ceilings.
-- **Visualization**: ![Geospatial Map](../hillary/images/geospatial_map.png)
+- **Visualization**: ![Geospatial Map](images/geospatial_map.png)
 
 ### Jesse: Boston Housing
 **Primary Insight**: Socio-economic status of the neighborhood and physical room count are paramount.
