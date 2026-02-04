@@ -51,11 +51,11 @@ The team has successfully completed the analysis for all five datasets. Below is
 
 | Student | Dataset | Analysis Notebook | Cleaned Data |
 | :--- | :--- | :--- | :--- |
-| **Kelvin** | California Housing | [Analysis](../kelvin/notebooks/kelvin_housing_analysis.ipynb) | [CSV](../kelvin/cleaned_data/cleaned_california_housing.csv) |
-| **Ekure** | Ames Housing | [Analysis](../ekure/notebooks/ekure_housing_analysis.ipynb) | [CSV](../ekure/cleaned_data/cleaned_ames_housing.csv) |
-| **Hillary** | Melbourne Housing | [Analysis](../hillary/notebooks/hillary_housing_analysis.ipynb) | [CSV](../hillary/cleaned_data/cleaned_melbourne_housing.csv) |
-| **Jesse** | Boston Housing | [Analysis](../jesse/notebooks/jesse_housing_analysis.ipynb) | [CSV](../jesse/cleaned_data/cleaned_boston_housing.csv) |
-| **Mary** | Bangalore Housing | [Analysis](../mary/notebooks/mary_housing_analysis.ipynb) | [CSV](../mary/cleaned_data/cleaned_bangalore_housing.csv) |
+| **Kelvin** | California Housing | [Analysis](../kelvin/notebooks/kelvin_housing_analysis.ipynb) | [CSV](kelvin/cleaned_data/cleaned_california_housing.csv) |
+| **Ekure** | Ames Housing | [Analysis](ekure/notebooks/ekure_housing_analysis.ipynb) | [CSV](ekure/cleaned_data/cleaned_ames_housing.csv) |
+| **Hillary** | Melbourne Housing | [Analysis](hillary/notebooks/hillary_housing_analysis.ipynb) | [CSV](hillary/cleaned_data/cleaned_melbourne_housing.csv) |
+| **Jesse** | Boston Housing | [Analysis](jesse/notebooks/jesse_housing_analysis.ipynb) | [CSV](jesse/cleaned_data/cleaned_boston_housing.csv) |
+| **Mary** | Bangalore Housing | [Analysis](mary/notebooks/mary_housing_analysis.ipynb) | [CSV](mary/cleaned_data/cleaned_bangalore_housing.csv) |
 
 ### Final Group Report
 The synthesized findings and cross-regional comparisons can be found in the [Final Group Report](../reports/group_report.md).
